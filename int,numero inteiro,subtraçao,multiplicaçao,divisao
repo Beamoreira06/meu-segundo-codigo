@@ -1,0 +1,17 @@
+void main () {     
+int musica = 1;    
+int festa=1; 
+
+int resultado = musica+festa; 
+print(resultado);
+
+int subtracao = musica - festa;
+print(subtracao);
+  
+int multiplicacao = musica * festa;
+  print ('$multiplicacao');  
+  
+  double divisao = musica / festa;
+  print ("$divisao");
+  
+}
